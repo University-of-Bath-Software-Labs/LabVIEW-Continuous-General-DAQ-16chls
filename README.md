@@ -1,5 +1,5 @@
 
-# LabVIEW Genral DAQ Program - 16 Channels
+# LabVIEW General DAQ Program - 16 Channels
 
 This is a general-purpose **LabVIEW 2021 data acquisition (DAQ)** program designed to read analog voltage data, display it on a real‑time graph, and record the acquired data to a file.
 
