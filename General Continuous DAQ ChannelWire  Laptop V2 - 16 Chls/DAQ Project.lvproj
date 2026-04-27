@@ -40,6 +40,7 @@
 		</Item>
 		<Item Name="SubVI" Type="Folder">
 			<Item Name="Applied Scale and Offset to Signal.vi" Type="VI" URL="../SubVi/Applied Scale and Offset to Signal.vi"/>
+			<Item Name="Calculate dt.vi" Type="VI" URL="../SubVi/Calculate dt.vi"/>
 			<Item Name="Channel Validation.vi" Type="VI" URL="../SubVi/Channel Validation.vi"/>
 			<Item Name="DAQ Channel Dlg_V0.vi" Type="VI" URL="../SubVi/DAQ Channel Dlg_V0.vi"/>
 			<Item Name="DAQ Manager.vi" Type="VI" URL="../SubVi/DAQ Manager.vi"/>
